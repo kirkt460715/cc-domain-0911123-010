@@ -1,0 +1,641 @@
+{
+  "synthetic": true,
+  "records": [
+    {
+      "id": "work-0",
+      "data": {
+        "title": "合成合作成果 0",
+        "institution": "A; B",
+        "kind": "prototype",
+        "year": 2026,
+        "people": [
+          "研究员0"
+        ],
+        "identifiers": {
+          "registry": [
+            "local:work-0"
+          ]
+        },
+        "tags": [
+          "A",
+          "B"
+        ]
+      }
+    },
+    {
+      "id": "work-1",
+      "data": {
+        "title": "合成合作成果 1",
+        "institution": "B; C",
+        "kind": "prototype",
+        "year": 2025,
+        "people": [
+          "研究员1"
+        ],
+        "identifiers": {
+          "registry": [
+            "local:work-1"
+          ]
+        },
+        "tags": [
+          "B",
+          "C"
+        ]
+      }
+    },
+    {
+      "id": "work-2",
+      "data": {
+        "title": "合成合作成果 2",
+        "institution": "C; A",
+        "kind": "prototype",
+        "year": 2026,
+        "people": [
+          "研究员2"
+        ],
+        "identifiers": {
+          "registry": [
+            "local:work-2"
+          ]
+        },
+        "tags": [
+          "C",
+          "A"
+        ]
+      }
+    },
+    {
+      "id": "work-3",
+      "data": {
+        "title": "合成合作成果 3",
+        "institution": "A; B",
+        "kind": "prototype",
+        "year": 2025,
+        "people": [
+          "研究员3"
+        ],
+        "identifiers": {
+          "registry": [
+            "local:work-3"
+          ]
+        },
+        "tags": [
+          "A",
+          "B"
+        ]
+      }
+    },
+    {
+      "id": "work-4",
+      "data": {
+        "title": "合成合作成果 4",
+        "institution": "B; C",
+        "kind": "prototype",
+        "year": 2026,
+        "people": [
+          "研究员4"
+        ],
+        "identifiers": {
+          "registry": [
+            "local:work-4"
+          ]
+        },
+        "tags": [
+          "B",
+          "C"
+        ]
+      }
+    },
+    {
+      "id": "work-5",
+      "data": {
+        "title": "合成合作成果 5",
+        "institution": "C; A",
+        "kind": "prototype",
+        "year": 2025,
+        "people": [
+          "研究员5"
+        ],
+        "identifiers": {
+          "registry": [
+            "local:work-5"
+          ]
+        },
+        "tags": [
+          "C",
+          "A"
+        ]
+      }
+    },
+    {
+      "id": "work-6",
+      "data": {
+        "title": "合成合作成果 6",
+        "institution": "A; B",
+        "kind": "prototype",
+        "year": 2026,
+        "people": [
+          "研究员6"
+        ],
+        "identifiers": {
+          "registry": [
+            "local:work-6"
+          ]
+        },
+        "tags": [
+          "A",
+          "B"
+        ]
+      }
+    },
+    {
+      "id": "work-7",
+      "data": {
+        "title": "合成合作成果 7",
+        "institution": "B; C",
+        "kind": "prototype",
+        "year": 2025,
+        "people": [
+          "研究员7"
+        ],
+        "identifiers": {
+          "registry": [
+            "local:work-7"
+          ]
+        },
+        "tags": [
+          "B",
+          "C"
+        ]
+      }
+    },
+    {
+      "id": "work-8",
+      "data": {
+        "title": "合成合作成果 8",
+        "institution": "C; A",
+        "kind": "prototype",
+        "year": 2026,
+        "people": [
+          "研究员8"
+        ],
+        "identifiers": {
+          "registry": [
+            "local:work-8"
+          ]
+        },
+        "tags": [
+          "C",
+          "A"
+        ]
+      }
+    },
+    {
+      "id": "work-9",
+      "data": {
+        "title": "合成合作成果 9",
+        "institution": "A; B",
+        "kind": "prototype",
+        "year": 2025,
+        "people": [
+          "研究员9"
+        ],
+        "identifiers": {
+          "registry": [
+            "local:work-9"
+          ]
+        },
+        "tags": [
+          "A",
+          "B"
+        ]
+      }
+    },
+    {
+      "id": "work-10",
+      "data": {
+        "title": "合成合作成果 10",
+        "institution": "B; C",
+        "kind": "prototype",
+        "year": 2026,
+        "people": [
+          "研究员10"
+        ],
+        "identifiers": {
+          "registry": [
+            "local:work-10"
+          ]
+        },
+        "tags": [
+          "B",
+          "C"
+        ]
+      }
+    },
+    {
+      "id": "work-11",
+      "data": {
+        "title": "合成合作成果 11",
+        "institution": "C; A",
+        "kind": "prototype",
+        "year": 2025,
+        "people": [
+          "研究员11"
+        ],
+        "identifiers": {
+          "registry": [
+            "local:work-11"
+          ]
+        },
+        "tags": [
+          "C",
+          "A"
+        ]
+      }
+    },
+    {
+      "id": "work-12",
+      "data": {
+        "title": "合成合作成果 12",
+        "institution": "D; E",
+        "kind": "prototype",
+        "year": 2026,
+        "people": [
+          "研究员12"
+        ],
+        "identifiers": {
+          "registry": [
+            "local:work-12"
+          ]
+        },
+        "tags": [
+          "D",
+          "E"
+        ]
+      }
+    },
+    {
+      "id": "work-13",
+      "data": {
+        "title": "合成合作成果 13",
+        "institution": "E; F",
+        "kind": "prototype",
+        "year": 2025,
+        "people": [
+          "研究员13"
+        ],
+        "identifiers": {
+          "registry": [
+            "local:work-13"
+          ]
+        },
+        "tags": [
+          "E",
+          "F"
+        ]
+      }
+    },
+    {
+      "id": "work-14",
+      "data": {
+        "title": "合成合作成果 14",
+        "institution": "F; D",
+        "kind": "prototype",
+        "year": 2026,
+        "people": [
+          "研究员14"
+        ],
+        "identifiers": {
+          "registry": [
+            "local:work-14"
+          ]
+        },
+        "tags": [
+          "F",
+          "D"
+        ]
+      }
+    },
+    {
+      "id": "work-15",
+      "data": {
+        "title": "合成合作成果 15",
+        "institution": "D; E",
+        "kind": "prototype",
+        "year": 2025,
+        "people": [
+          "研究员15"
+        ],
+        "identifiers": {
+          "registry": [
+            "local:work-15"
+          ]
+        },
+        "tags": [
+          "D",
+          "E"
+        ]
+      }
+    },
+    {
+      "id": "work-16",
+      "data": {
+        "title": "合成合作成果 16",
+        "institution": "E; F",
+        "kind": "prototype",
+        "year": 2026,
+        "people": [
+          "研究员16"
+        ],
+        "identifiers": {
+          "registry": [
+            "local:work-16"
+          ]
+        },
+        "tags": [
+          "E",
+          "F"
+        ]
+      }
+    },
+    {
+      "id": "work-17",
+      "data": {
+        "title": "合成合作成果 17",
+        "institution": "F; D",
+        "kind": "prototype",
+        "year": 2025,
+        "people": [
+          "研究员17"
+        ],
+        "identifiers": {
+          "registry": [
+            "local:work-17"
+          ]
+        },
+        "tags": [
+          "F",
+          "D"
+        ]
+      }
+    },
+    {
+      "id": "work-18",
+      "data": {
+        "title": "合成合作成果 18",
+        "institution": "D; E",
+        "kind": "prototype",
+        "year": 2026,
+        "people": [
+          "研究员18"
+        ],
+        "identifiers": {
+          "registry": [
+            "local:work-18"
+          ]
+        },
+        "tags": [
+          "D",
+          "E"
+        ]
+      }
+    },
+    {
+      "id": "work-19",
+      "data": {
+        "title": "合成合作成果 19",
+        "institution": "E; F",
+        "kind": "prototype",
+        "year": 2025,
+        "people": [
+          "研究员19"
+        ],
+        "identifiers": {
+          "registry": [
+            "local:work-19"
+          ]
+        },
+        "tags": [
+          "E",
+          "F"
+        ]
+      }
+    },
+    {
+      "id": "work-20",
+      "data": {
+        "title": "合成合作成果 20",
+        "institution": "F; D",
+        "kind": "prototype",
+        "year": 2026,
+        "people": [
+          "研究员20"
+        ],
+        "identifiers": {
+          "registry": [
+            "local:work-20"
+          ]
+        },
+        "tags": [
+          "F",
+          "D"
+        ]
+      }
+    },
+    {
+      "id": "work-21",
+      "data": {
+        "title": "合成合作成果 21",
+        "institution": "D; E",
+        "kind": "prototype",
+        "year": 2025,
+        "people": [
+          "研究员21"
+        ],
+        "identifiers": {
+          "registry": [
+            "local:work-21"
+          ]
+        },
+        "tags": [
+          "D",
+          "E"
+        ]
+      }
+    },
+    {
+      "id": "work-22",
+      "data": {
+        "title": "合成合作成果 22",
+        "institution": "E; F",
+        "kind": "prototype",
+        "year": 2026,
+        "people": [
+          "研究员22"
+        ],
+        "identifiers": {
+          "registry": [
+            "local:work-22"
+          ]
+        },
+        "tags": [
+          "E",
+          "F"
+        ]
+      }
+    },
+    {
+      "id": "work-23",
+      "data": {
+        "title": "合成合作成果 23",
+        "institution": "F; D",
+        "kind": "prototype",
+        "year": 2025,
+        "people": [
+          "研究员23"
+        ],
+        "identifiers": {
+          "registry": [
+            "local:work-23"
+          ]
+        },
+        "tags": [
+          "F",
+          "D"
+        ]
+      }
+    },
+    {
+      "id": "bridge",
+      "data": {
+        "title": "合成跨团队合作",
+        "institution": "C; D",
+        "kind": "prototype",
+        "year": 2026,
+        "people": [
+          "桥接研究员"
+        ],
+        "identifiers": {
+          "registry": [
+            "local:bridge"
+          ]
+        },
+        "tags": [
+          "C",
+          "D"
+        ]
+      }
+    }
+  ],
+  "institution_members": {
+    "work-0": [
+      "A",
+      "B"
+    ],
+    "work-1": [
+      "B",
+      "C"
+    ],
+    "work-2": [
+      "C",
+      "A"
+    ],
+    "work-3": [
+      "A",
+      "B"
+    ],
+    "work-4": [
+      "B",
+      "C"
+    ],
+    "work-5": [
+      "C",
+      "A"
+    ],
+    "work-6": [
+      "A",
+      "B"
+    ],
+    "work-7": [
+      "B",
+      "C"
+    ],
+    "work-8": [
+      "C",
+      "A"
+    ],
+    "work-9": [
+      "A",
+      "B"
+    ],
+    "work-10": [
+      "B",
+      "C"
+    ],
+    "work-11": [
+      "C",
+      "A"
+    ],
+    "work-12": [
+      "D",
+      "E"
+    ],
+    "work-13": [
+      "E",
+      "F"
+    ],
+    "work-14": [
+      "F",
+      "D"
+    ],
+    "work-15": [
+      "D",
+      "E"
+    ],
+    "work-16": [
+      "E",
+      "F"
+    ],
+    "work-17": [
+      "F",
+      "D"
+    ],
+    "work-18": [
+      "D",
+      "E"
+    ],
+    "work-19": [
+      "E",
+      "F"
+    ],
+    "work-20": [
+      "F",
+      "D"
+    ],
+    "work-21": [
+      "D",
+      "E"
+    ],
+    "work-22": [
+      "E",
+      "F"
+    ],
+    "work-23": [
+      "F",
+      "D"
+    ],
+    "bridge": [
+      "C",
+      "D"
+    ]
+  },
+  "source_coverage": {
+    "lab": [
+      2025,
+      2026
+    ],
+    "extra": [
+      2026
+    ]
+  }
+}
