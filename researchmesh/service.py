@@ -12,6 +12,7 @@ from .decisions.graph import DecisionGraph
 from .decisions.review import ReviewQueue
 from .snapshots.master import MasterRecords
 from .snapshots.releases import Releases
+from .network.service import NetworkAnalytics
 from .contracts import fields, fail
 
 
@@ -32,6 +33,7 @@ class ResearchMesh:
         )
         self.releases = Releases(self.store, self.sources, self.graph, self.masters)
         self.catalogue = PublishedCatalogue(self.releases)
+        self.analytics = NetworkAnalytics(self)
         self.quality = Quality(
             self.store,
             self.sources,
@@ -152,6 +154,19 @@ class ResearchMesh:
                 ],
             ),
             ("storage", self.store, ["verify_audit", "audit_page", "backup"]),
+            (
+                "network",
+                self.analytics,
+                [
+                    "release_table",
+                    "analyze_release",
+                    "analyze_table",
+                    "compare_releases",
+                    "export_bundle",
+                    "verify_bundle_file",
+                    "rerun_bundle_file",
+                ],
+            ),
         ]
         result = {}
         for prefix, component, methods in definitions:

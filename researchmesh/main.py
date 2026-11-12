@@ -18,6 +18,8 @@ def main(argv=None):
     commands = parser.add_subparsers(dest="command", required=True)
     commands.add_parser("demo")
     commands.add_parser("describe")
+    network_demo = commands.add_parser("network-demo")
+    network_demo.add_argument("--out", default=None)
     execute = commands.add_parser("run")
     execute.add_argument("request")
     ingest = commands.add_parser("ingest")
@@ -35,6 +37,11 @@ def main(argv=None):
             from .demo import run
 
             result = run()
+        elif args.command == "network-demo":
+            from .network.demo import run as run_network_demo
+
+            outcome = run_network_demo(args.out)
+            result = outcome["summary"]
         elif args.command == "verify":
             from .snapshots.releases import Releases
 
